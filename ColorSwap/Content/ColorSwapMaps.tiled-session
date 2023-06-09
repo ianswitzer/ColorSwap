@@ -1,0 +1,201 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Level1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "DarkCastle.tsx": {
+            "scaleInDock": 4,
+            "scaleInEditor": 8
+        },
+        "Fire.tsx": {
+            "scaleInDock": 4,
+            "scaleInEditor": 8
+        },
+        "Ice.tsx": {
+            "scaleInDock": 4,
+            "scaleInEditor": 5.5
+        },
+        "Level1.tmx": {
+            "expandedObjectLayers": [
+                11,
+                7,
+                6
+            ],
+            "scale": 0.8265,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 600.7259528130672,
+                "y": 361.1615245009075
+            }
+        },
+        "Level10.tmx": {
+            "scale": 0.8265,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 600.7259528130672,
+                "y": 361.1615245009075
+            }
+        },
+        "Level2.tmx": {
+            "expandedObjectLayers": [
+                11,
+                7,
+                8,
+                6
+            ],
+            "scale": 0.8265,
+            "selectedLayer": 11,
+            "viewCenter": {
+                "x": 600.7259528130672,
+                "y": 361.1615245009075
+            }
+        },
+        "Level3.tmx": {
+            "expandedObjectLayers": [
+                11,
+                7,
+                8,
+                6,
+                9
+            ],
+            "scale": 0.8265,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 600.7259528130672,
+                "y": 361.1615245009075
+            }
+        },
+        "Level4.tmx": {
+            "scale": 0.8265,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 600.7259528130672,
+                "y": 361.1615245009075
+            }
+        },
+        "Level5.tmx": {
+            "expandedObjectLayers": [
+                11,
+                10,
+                7,
+                8,
+                6,
+                9
+            ],
+            "scale": 0.8265,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 600.7259528130672,
+                "y": 361.1615245009075
+            }
+        },
+        "Level6.tmx": {
+            "expandedObjectLayers": [
+                10,
+                7,
+                8,
+                6,
+                9
+            ],
+            "scale": 0.8265,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 600.7259528130672,
+                "y": 361.1615245009075
+            }
+        },
+        "Level7.tmx": {
+            "scale": 0.8265,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 600.7259528130672,
+                "y": 361.1615245009075
+            }
+        },
+        "Level9.tmx": {
+            "expandedObjectLayers": [
+                11,
+                10,
+                7,
+                8,
+                6,
+                9
+            ],
+            "scale": 0.8265,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 600.7259528130672,
+                "y": 361.1615245009075
+            }
+        },
+        "LevelTemplate.tmx": {
+            "expandedObjectLayers": [
+                11
+            ],
+            "scale": 0.8265,
+            "selectedLayer": 10,
+            "viewCenter": {
+                "x": 600.7259528130672,
+                "y": 361.1615245009075
+            }
+        },
+        "Swamp.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 8
+        },
+        "testMap.tmx": {
+            "expandedObjectLayers": [
+                13,
+                10,
+                2,
+                6,
+                4
+            ],
+            "scale": 0.8265,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 600.7259528130672,
+                "y": 361.1615245009075
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/Student/Downloads/Starter Tiles - Platformer/Starter Tiles Platformer",
+    "map.height": 15,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 48,
+    "map.tileWidth": 48,
+    "map.width": 25,
+    "openFiles": [
+        "Fire.tsx",
+        "Ice.tsx",
+        "Swamp.tsx",
+        "DarkCastle.tsx",
+        "Level1.tmx"
+    ],
+    "project": "ColorSwapMaps.tiled-project",
+    "recentFiles": [
+        "Level10.tmx",
+        "Level4.tmx",
+        "Level7.tmx",
+        "Level1.tmx",
+        "Level2.tmx",
+        "Level3.tmx",
+        "Level5.tmx",
+        "Level6.tmx",
+        "Fire.tsx",
+        "Ice.tsx",
+        "Swamp.tsx",
+        "DarkCastle.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
